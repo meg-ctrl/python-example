@@ -2,6 +2,7 @@
 
 def main(msg):
     //another comment
+    //second one
     //print message
     print(msg)
 
